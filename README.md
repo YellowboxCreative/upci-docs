@@ -1,5 +1,4 @@
-# upci-docs
-UPCI Project Docs
+# UPCI Project Docs
 
 ## Database design
 
